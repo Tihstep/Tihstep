@@ -1,3 +1,5 @@
+I am a student at BMSTU, studying in the direction of "Computer systems for industrial automation". I am passionate about machine learning.
+
 In secondary school, I actively participated in physics, mathematics and informational Olympiads,
 which helped me to pass exams well with an average score of 93 and 100 points for physics and to enter the Bauman Moscow State Technical University.
 
