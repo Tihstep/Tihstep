@@ -13,5 +13,7 @@ I will be glad to talk with you more about my experience. My additional contacts
 Do not hesitate to follow me and give recomendations to my skills and experience.
 
 Email: tihstepML@gmail.com
+
 Telegram: @Tihstep
+
 Linkedin: https://www.linkedin.com/in/tihstep/
