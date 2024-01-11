@@ -7,7 +7,7 @@ Participated in the full planning, development, implementation of the model into
 Worked mostly in python and a little bit of C++.
 SQL - PyTorch - Spark e.t.c other DS frameworks
 
-Some time ago, I graduated from BMSTU with a degree in "Computer systems for industrial automation". I am also currently pursuing a master's degree at hse in the field of Financial Technologies and Data Analysis.
+Some time ago, I graduated from BMSTU with a degree in "Computer systems for industrial automation". I am also currently pursuing a master's degree at HSE in the field of Financial Technologies and Data Analysis.
 
 The level of English and knowledge in modern deep learning algorithms allows you to quickly read the latest article on arXiv.com, isolate the main idea and convey to the team.
 
